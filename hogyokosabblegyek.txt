@@ -1,3 +1,7 @@
 static function 	->	static functionok meghívásához nem kell példányosítani
 function 		->	sima functionok meghívásához pedig kell
 implementálás		->	amikor egy tervet valósítunk meg/megvalósítás...
+
+interfész		->	többet lehet belőlük származtatni
+absztrakt		->	ebből lehet származtatni, pl ez az osztály legyen "állat"
+enum			->	több adatot felsorolni amihez tulajdonságok tartoznak
